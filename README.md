@@ -14,6 +14,8 @@ Among them:
 - compound components
 - render props
 - debouncing
+
+
 All these principles have been implemented in the code of this project.
 
 ### Project Installation
